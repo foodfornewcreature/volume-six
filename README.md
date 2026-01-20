@@ -1,10 +1,10 @@
-# Volume 2 – The Time is at Hand
+# Volume 6 – The New Creation
 
 A Tamil scripture reading application produced by the team at [Food For New Creature](https://foodfornewcreature.com/).
 
 ## About the App
 
-Volume 2 is a digital scripture reading application that presents "The Time is at Hand" in Tamil. This volume explores the chronology of the Bible and helps readers understand where we are in the stream of time. It presents scriptural and historical evidence for the birth of Jesus in B.C. 2, offers insights indicating that we are already in the "Day of the Lord," and highlights how the Lord is actively working in the world in preparation for the coming kingdom. An entire chapter sets forth evidence that the antichrist has already come. These and other profound truths are carefully presented, making this volume a valuable resource for every earnest Bible student.
+Volume 6 is a digital scripture reading application that presents "The New Creation" in Tamil. This volume brings clarity and meaning to the instructions of Jesus and the Apostles toward the purpose, plan and development of the body of Christ — the New Creation. It considers in detail the Genesis account of creation, practical Christian issues of marriage and raising children, the doctrine of baptism, the Passover of the New Creation, and establishing Bible study fellowships. These profound teachings are carefully presented, making this volume a valuable resource for every earnest Bible student.
 
 ## Features
 
