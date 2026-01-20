@@ -1,0 +1,132 @@
+pageNumber	id	file	status	note
+294	page-294	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+295	page-295	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+296	page-296	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+297	page-297	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+298	page-298	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+299	page-299	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+300	page-300	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+301	page-301	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+302	page-302	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+303	page-303	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+304	page-304	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+305	page-305	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+306	page-306	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+307	page-307	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+308	page-308	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+310	page-310	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+311	page-311	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+312	page-312	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+313	page-313	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+314	page-314	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+315	page-315	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+316	page-316	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+317	page-317	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+318	page-318	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+319	page-319	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+320	page-320	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+321	page-321	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+322	page-322	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+323	page-323	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+324	page-324	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+325	page-325	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+326	page-326	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+327	page-327	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+328	page-328	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplaced; appears again at high line numbers
+329	page-329	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+330	page-330	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+331	page-331	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+332	page-332	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+333	page-333	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+334	page-334	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+335	page-335	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+336	page-336	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+337	page-337	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+338	page-338	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+339	page-339	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+340	page-340	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+341	page-341	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+342	page-342	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+343	page-343	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+344	page-344	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+345	page-345	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+346	page-346	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+347	page-347	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+348	page-348	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+349	page-349	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+350	page-350	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+351	page-351	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+352	page-352	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+353	page-353	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+354	page-354	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+355	page-355	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+356	page-356	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+357	page-357	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+358	page-358	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+359	page-359	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+360	page-360	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+361	page-361	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+362	page-362	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+363	page-363	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+364	page-364	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+365	page-365	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+366	page-366	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+367	page-367	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+368	page-368	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+369	page-369	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+370	page-370	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+371	page-371	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+372	page-372	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+373	page-373	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+374	page-374	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+375	page-375	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+376	page-376	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+377	page-377	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+378	page-378	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+379	page-379	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+380	page-380	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+381	page-381	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+382	page-382	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+383	page-383	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+384	page-384	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+385	page-385	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+386	page-386	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+387	page-387	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+388	page-388	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+389	page-389	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+390	page-390	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+391	page-391	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+392	page-392	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+393	page-393	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+394	page-394	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+395	page-395	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+396	page-396	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+397	page-397	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+398	page-398	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+399	page-399	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+400	page-400	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+401	page-401	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+402	page-402	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+403	page-403	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+404	page-404	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+405	page-405	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+406	page-406	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+407	page-407	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+408	page-408	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+409	page-409	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+410	page-410	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+411	page-411	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+412	page-412	src/assets/chapter-09.json	DUPLICATE	Suspected duplicate/misplacements; appears again at high line numbers
+413	page-413	src/assets/chapter-09.json	MISPLACED	High pages present in chapter-09; verify they belong before final chapter-10
+414	page-414	src/assets/chapter-09.json	MISPLACED	High pages present in chapter-09; verify they belong before final chapter-10
+415	page-415	src/assets/chapter-09.json	MISPLACED	High pages present in chapter-09; verify they belong before final chapter-10
+416	page-416	src/assets/chapter-09.json	MISPLACED	High pages present in chapter-09; verify they belong before final chapter-10
+417	page-417	src/assets/chapter-09.json	MISPLACED	High pages present in chapter-09; verify they belong before final chapter-10
+418	page-418	src/assets/chapter-09.json	MISPLACED	High pages present in chapter-09; verify they belong before final chapter-10
+419	page-419	src/assets/chapter-09.json	MISPLACED	High pages present in chapter-09; verify they belong before final chapter-10
+420	page-420	src/assets/chapter-09.json	MISPLACED	High pages present in chapter-09; verify they belong before final chapter-10
+421	page-421		UNKNOWN	Check JSON: ensure single correct location before chapter-10
+422	page-422	src/assets/chapter-10.json	OK	Defined in final chapter as expected
+423	page-423	src/assets/chapter-10.json	OK	Defined in final chapter as expected
+424	page-424	src/assets/chapter-10.json	OK	Defined in final chapter as expected
+425	page-425	src/assets/chapter-10.json	OK	Defined in final chapter as expected
