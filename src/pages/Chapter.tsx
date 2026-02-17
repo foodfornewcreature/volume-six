@@ -7,7 +7,7 @@ import { ChapterContent } from '@/components/ChapterContent';
 import { Skeleton } from '@/components/ui/skeleton';
 import { showError } from '@/utils/toast';
 
-const CHAPTER_COUNT = 16;
+const CHAPTER_COUNT = 17;
 
 const Chapter = () => {
   const { id } = useParams<{ id: string }>();

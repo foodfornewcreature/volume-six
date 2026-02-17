@@ -1,6 +1,6 @@
 import { BookChapter, Paragraph, SearchResult, Hints, Line, Table } from "@/types/book";
 
-const CHAPTER_NUMBERS = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16];
+const CHAPTER_NUMBERS = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17];
 
 // In dev, Vite serves from project root so /src/... works, but in production we copy to /assets.
 // Build the base URL depending on environment.
