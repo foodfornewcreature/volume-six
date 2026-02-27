@@ -24,8 +24,8 @@ export function PageNavigator() {
       const tamilPagesArray: PageOption[] = [];
       const englishPagesArray: PageOption[] = [];
 
-      // Fetch data from all chapters (16 chapters)
-      for (let i = 1; i <= 16; i++) {
+      // Fetch data from all chapters (17 chapters)
+      for (let i = 1; i <= 17; i++) {
         const chapterId = i.toString().padStart(2, '0');
         const chapterData = await getChapter(chapterId);
         
